@@ -2,7 +2,6 @@
 
 **High-performance cryptographic proof-of-work implementation for blockchain education and research**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![C Standard](https://img.shields.io/badge/C-C99+-green.svg)](https://en.wikipedia.org/wiki/C99)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org)
 [![Intel Optimized](https://img.shields.io/badge/Intel-NPU%20Optimized-blue.svg)](https://www.intel.com)
@@ -403,7 +402,7 @@ We welcome contributions focusing on:
 
 ## License
 
-MIT License - Educational and research use encouraged
+This project is licensed under the **SWORD Restricted Source Licence v1.0 (SRSL-1.0)**. Personal and non-commercial use is permitted under its terms; commercial exploitation requires a separate written agreement. See [LICENSE](LICENSE).
 
 ## Disclaimer
 
